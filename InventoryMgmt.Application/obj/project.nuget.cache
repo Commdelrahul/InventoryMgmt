@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AXPN+gam7iavVv4v1I6AAo3YN9bWpD8vFKA5Cr+nMb5KcrSX4Hxavx8jB7tJ255N36DQqbxF27Ci190NyGGJlA==",
+  "dgSpecHash": "hu+bSA8fFlzpWqOJpGBd31WIB9HLRrPumC60RU04Y3kp3siIV2qz5etKu099Ih9u7m2nG+2Ju6aFeFJrvcCJ/g==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\InventoryMgmt\\InventoryMgmt.Application\\InventoryMgmt.Application.csproj",
+  "projectFilePath": "D:\\InventoryMgmt\\InventoryMgmt.Application\\InventoryMgmt.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

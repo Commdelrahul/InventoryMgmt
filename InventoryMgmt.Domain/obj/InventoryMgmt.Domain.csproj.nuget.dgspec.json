@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\InventoryMgmt\\InventoryMgmt.Domain\\InventoryMgmt.Domain.csproj": {}
+    "D:\\InventoryMgmt\\InventoryMgmt.Domain\\InventoryMgmt.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\InventoryMgmt\\InventoryMgmt.Domain\\InventoryMgmt.Domain.csproj": {
+    "D:\\InventoryMgmt\\InventoryMgmt.Domain\\InventoryMgmt.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\InventoryMgmt\\InventoryMgmt.Domain\\InventoryMgmt.Domain.csproj",
+        "projectUniqueName": "D:\\InventoryMgmt\\InventoryMgmt.Domain\\InventoryMgmt.Domain.csproj",
         "projectName": "InventoryMgmt.Domain",
-        "projectPath": "C:\\Projects\\InventoryMgmt\\InventoryMgmt.Domain\\InventoryMgmt.Domain.csproj",
+        "projectPath": "D:\\InventoryMgmt\\InventoryMgmt.Domain\\InventoryMgmt.Domain.csproj",
         "packagesPath": "C:\\Users\\Inno\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\InventoryMgmt\\InventoryMgmt.Domain\\obj\\",
+        "outputPath": "D:\\InventoryMgmt\\InventoryMgmt.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Inno\\AppData\\Roaming\\NuGet\\NuGet.Config",

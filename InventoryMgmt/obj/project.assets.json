@@ -9417,11 +9417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\InventoryMgmt\\InventoryMgmt\\InventoryMgmt.csproj",
+      "projectUniqueName": "D:\\InventoryMgmt\\InventoryMgmt\\InventoryMgmt.csproj",
       "projectName": "InventoryMgmt",
-      "projectPath": "C:\\Projects\\InventoryMgmt\\InventoryMgmt\\InventoryMgmt.csproj",
+      "projectPath": "D:\\InventoryMgmt\\InventoryMgmt\\InventoryMgmt.csproj",
       "packagesPath": "C:\\Users\\Inno\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\InventoryMgmt\\InventoryMgmt\\obj\\",
+      "outputPath": "D:\\InventoryMgmt\\InventoryMgmt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Inno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9438,8 +9438,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projects\\InventoryMgmt\\InventoryMgmt.Persistence\\InventoryMgmt.Persistence.csproj": {
-              "projectPath": "C:\\Projects\\InventoryMgmt\\InventoryMgmt.Persistence\\InventoryMgmt.Persistence.csproj"
+            "D:\\InventoryMgmt\\InventoryMgmt.Persistence\\InventoryMgmt.Persistence.csproj": {
+              "projectPath": "D:\\InventoryMgmt\\InventoryMgmt.Persistence\\InventoryMgmt.Persistence.csproj"
             }
           }
         }
