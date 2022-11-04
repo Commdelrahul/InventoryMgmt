@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "Add Car";
+}
+<link href="~/css/AddCardDetail.css" rel="stylesheet" />
+
+<script src="~/js/CarDetail.js"></script>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <a href="/">Back to list</a>
+        </div>
+        <div class="col-sm-4">
+            <div id="car-form">
+                <h3 class="text-center">Car Details</h3>
+                <div class="form-group">
+                    <label>Car Name</label>
+                    <input type="text" class="form-control" id="carName" name="carName" />
+                    <span class="text-danger" id="errorMsgCarName"></span>
+                </div>
+                <div class="form-group">
+                    <label>Brand Name</label>
+
+                    <select id="brandName" class="form-control">
+                        <option value="">--Select--</option>
+                    </select>
+                    <span class="text-danger" id="errorMsgBrandName"></span>
+                </div>
+                <div class="form-group">
+                    <label>Model Name</label>
+                    <select id="modelName" class="form-control">
+                        <option value="">--Select--</option>
+                    </select>
+                    <span class="text-danger" id="errorMsgModelName"></span>
+                </div>
+                <div class="form-group">
+                    <label>Price</label>
+                    <input type="text" class="form-control" id="price" name="peice" />
+                    <span class="text-danger" id="errorMsgPrice"></span>
+                </div>
+                <div class="form-group">
+                    <label>IsNew </label>
+                    <input type="radio" value="Yes" name="IsNew" checked />Yes
+                    <input type="radio" value="No" name="IsNew" />No
+                </div>
+                <div class="text-center">
+                    <button id="btnSave" class="btn btn-primary" name="btnSave">Save </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4"></div>
+    </div>
+    @{Html.RenderPartial("~/Views/Shared/PopUpMessage.cshtml");}
+</div>

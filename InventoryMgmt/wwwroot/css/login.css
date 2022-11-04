@@ -1,0 +1,26 @@
+﻿#login-form {
+    margin: 0px auto;
+    background-color: #fff;
+    width: 100%;
+    margin: 30% auto;
+     
+    border-radius: 4px;
+    box-shadow: 0px 30px 50px 0px rgb(0 0 0 / 20%);
+    padding: 20px;
+}
+
+
+.loader {
+    margin-top: -20%;
+    text-align: center;
+    display: none;
+    padding: 12px 24px;
+    font-size: 46px;
+}
+
+    .loader.fa {
+        margin-left: -12px;
+        margin-right: 8px;
+    }
+ 
+

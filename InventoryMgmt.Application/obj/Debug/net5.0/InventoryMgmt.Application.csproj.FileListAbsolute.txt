@@ -1,0 +1,12 @@
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\bin\Debug\net5.0\InventoryMgmt.Application.deps.json
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\bin\Debug\net5.0\InventoryMgmt.Application.dll
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\bin\Debug\net5.0\ref\InventoryMgmt.Application.dll
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\bin\Debug\net5.0\InventoryMgmt.Application.pdb
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\obj\Debug\net5.0\InventoryMgmt.Application.csproj.AssemblyReference.cache
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\obj\Debug\net5.0\InventoryMgmt.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\obj\Debug\net5.0\InventoryMgmt.Application.AssemblyInfoInputs.cache
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\obj\Debug\net5.0\InventoryMgmt.Application.AssemblyInfo.cs
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\obj\Debug\net5.0\InventoryMgmt.Application.csproj.CoreCompileInputs.cache
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\obj\Debug\net5.0\InventoryMgmt.Application.dll
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\obj\Debug\net5.0\ref\InventoryMgmt.Application.dll
+C:\Projects\InventoryMgmt\InventoryMgmt.Application\obj\Debug\net5.0\InventoryMgmt.Application.pdb
